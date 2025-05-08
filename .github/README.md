@@ -24,7 +24,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables]( https://github.com/Learningbots79/LB_Music/master/sample.env)
+- Get your [Necessary Variables]( https://dashboard.render.com/observability)
 ---
 
 ### 🔧 Quick Setup
