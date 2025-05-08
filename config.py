@@ -15,8 +15,8 @@ API_HASH = getenv("API_HASH", ec70d1d0025dfe0bec3cb6cdb3bee07f)
 BOT_TOKEN = getenv("BOT_TOKEN", 7505881349:AAGoXEP_V3u7b9m7tn9VkN9Mt-vz23B9rIo)
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", None)
+MONGO_DB_URI = getenv("MONGO_DB_URI", https://cloud.mongodb.com/v2/681b3079d96d5d251d1aedcc#/dataFederation/onboarding?type=feedDownstreamSystems)
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", •sʜɪʀᴀɪsɪ• ᴍᴜsɪᴄརཊ)
 PRIVATE_BOT_MODE = getenv("PRIVATE_BOT_MODE", None)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 900))
